@@ -1,2 +1,2 @@
 # Sito-Davvo
-Ebbene sì, il mio sitone
+Ciao, questo è il mio sito personale attualmente in costruzione. Attualmente all'interno del sito possiamo trovare il mio link dell'account GitHub ed un "About Me" attualmente in costruzione. Non sono un esperto nel settore dei siti, ma per ammazzare il tempo, proverò ad allenarmi costruendo continuamente il sito. Finisco dicendo che ho usato uno stile molto moderno e minimalistico (che personalmente mi piace tanto) che si sta diffondendo nei siti di oggi. Spero che vi piaccia anche se una volta finito, dovrò trovare un host gratis/low cost che mi hosti il sito, altrimenti lo terrei semplicemente come biglietto da visita o per uso personale... :D
