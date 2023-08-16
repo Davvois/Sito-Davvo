@@ -1,0 +1,64 @@
+@font-face {
+    src: url(fonts/LIQUIDO-Fluid.otf);
+    font-family: Fluid;
+}
+
+@font-face {
+    src: url(fonts/MAROLA.TTF);
+    font-family: Marola;
+}
+
+@font-face {
+    src: url(fonts/Stretch.ttf);
+    font-family: Stretch;
+}
+
+.Banner {
+    position: relative;
+    text-align: center;
+    padding: 10px;
+    background-color: tan;
+    border-bottom: 10px solid rgb(34, 34, 34);
+}
+
+.Title {
+    font-family: Fluid;
+    font-size: 150px;
+    color: whitesmoke;
+    text-shadow: 10px 5px 2px rgb(59, 59, 59);
+    text-decoration: underline;
+    text-decoration-thickness: 7px;
+    text-underline-offset: 10px;
+}
+
+.Redirector-To-EP,
+.Redirector-To-IP {
+    position: absolute;
+    top: 50%;
+    color: whitesmoke;
+    font-family: Stretch;
+    font-size: 23px;
+    text-shadow: 5px 2.5px 1.5px rgb(59, 59, 59);
+}
+
+.Redirector-To-EP {
+    left: 400px;
+}
+
+.Redirector-To-IP {
+    right: 400px;
+}
+
+.About-Me,
+.Github-Link {
+    color: whitesmoke;
+    font-family: Stretch;
+    font-size: 23px;
+    text-shadow: 5px 2.5px 1.5px rgb(59, 59, 59);
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(212, 212, 212);
+    margin: 0;
+}
