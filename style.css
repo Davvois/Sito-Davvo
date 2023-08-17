@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 @font-face {
     src: url(fonts/LIQUIDO-Fluid.otf);
     font-family: Fluid;
@@ -19,6 +21,7 @@
     padding: 10px;
     background-color: tan;
     border-bottom: 10px solid rgb(34, 34, 34);
+    box-shadow: 0px 8px 0px rgb(88, 88, 88);
 }
 
 .Title {
@@ -35,7 +38,6 @@
 .Redirector-To-IP {
     position: absolute;
     top: 50%;
-    color: whitesmoke;
     font-family: Stretch;
     font-size: 23px;
     text-shadow: 5px 2.5px 1.5px rgb(59, 59, 59);
@@ -49,13 +51,35 @@
     right: 400px;
 }
 
-.About-Me,
+.Contact-Me,
 .Github-Link {
     color: whitesmoke;
     font-family: Stretch;
     font-size: 23px;
     text-shadow: 5px 2.5px 1.5px rgb(59, 59, 59);
     text-decoration: none;
+}
+
+.About-Me{
+    position: absolute;
+    margin: auto;
+    width: 21.5%;
+    height: auto;
+    left: 100px;
+    top: 300px;
+}
+
+.About-Me-Title{
+    font-family: stretch;
+    font-size: 45px;
+    text-shadow: 5px 2px 2px rgb(153, 153, 153);
+}
+
+.First-Paragraph{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(24, 24, 24);
 }
 
 body {
